@@ -36,7 +36,6 @@ list(set = set, get = get, setInverse = setInverse, getInverse = getInverse)
 
 }
 
-
 ## Write a short comment describing this function
 
 cacheSolve <- function(x, ...) {
